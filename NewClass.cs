@@ -8,5 +8,10 @@ namespace PIS_Lab1
 {
     internal class NewClass
     {
+        public void emptyMethod()
+        {
+
+        }
+
     }
 }
