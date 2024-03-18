@@ -8,5 +8,6 @@ namespace PIS_Lab1
 {
     internal class NewClass
     {
+        Console.Writeline("Hello Marina");
     }
 }
